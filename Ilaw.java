@@ -7,8 +7,6 @@ public class Ilaw {
     public int pieces;
     static boolean clicked = false;
 
-
-
    public Ilaw(String color, int pieces){
        this.color = color;
        this.pieces = pieces;
