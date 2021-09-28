@@ -8,7 +8,7 @@ public class Ilawmain {
         Poste P = new Poste("red", 12, 100f); //inherit
         P.result();
 
-        Boolean Light = I.nakaOn();
+        Boolean Light = I.nakaOn(); //lights on
         System.out.println(Light);
         I.add("hoi");
 

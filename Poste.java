@@ -9,6 +9,7 @@ public class Poste extends Ilaw{
     }
 
     public void result(){
-        System.out.println(this.length + " meter " + this.pieces + " " + this.color+ " " + "lights ");
+        System.out.println();
+        System.out.println("this post is " + this.length + " meter "+ " and it has " + this.pieces + " " + this.color+ " " + "lights ");
     }
 }
